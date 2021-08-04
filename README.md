@@ -6,7 +6,7 @@ During day-to-day activities many people often forget to water their plants and 
 
 ---
 
-<a><img src="https://img.shields.io/youtube/views/D2kJhHHOHZM?label=Watch%20Demo&logo=youtube&style=for-the-badge" alt="DestiShare Logo"/></a>
+<a href="https://www.youtube.com/watch?v=D2kJhHHOHZM&pp=sAQA"><img src="https://img.shields.io/youtube/views/D2kJhHHOHZM?label=Watch%20Demo&logo=youtube&style=for-the-badge" alt="Watch Demo"/></a>
 
 ---
 
@@ -29,7 +29,8 @@ During day-to-day activities many people often forget to water their plants and 
 
 ### Architecture Diagram
 
-![Architecture Diagram](images\Architecture.png)
+![Architecture](https://user-images.githubusercontent.com/52245467/128130658-15620610-3201-4cab-a799-fb81da77a0e3.png)
+
 
 ### Conclusion
 
