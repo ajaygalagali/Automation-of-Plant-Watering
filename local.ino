@@ -39,7 +39,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
 
   // Checking Water Source Level
   if (isWaterSource()) {
@@ -79,7 +78,7 @@ void loop() {
 
   }
   Serial.println("---------------------END of CYCLE---------------------");
-  delay(5000);
+  delay(1000);
 
 
 }
